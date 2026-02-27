@@ -1,0 +1,11 @@
+[Fri Feb 27 12:43:55 2026][INFO] BoxApp created
+[Fri Feb 27 12:43:55 2026][INFO] BoxApp initializing
+[Fri Feb 27 12:43:56 2026][INFO] DX12RenderAdapter created
+[Fri Feb 27 12:43:56 2026][INFO] Initializing DX12RenderAdapter
+[Fri Feb 27 12:43:56 2026][INFO] DX12RenderAdapter initialized successfully
+[Fri Feb 27 12:43:56 2026][INFO] GameplayState constructed
+[Fri Feb 27 12:43:56 2026][INFO] Entering GameplayState
+[Fri Feb 27 12:43:56 2026][INFO] BoxApp initialized successfully
+[Fri Feb 27 12:43:56 2026][INFO] InputManager created
+[Fri Feb 27 12:44:08 2026][INFO] Cleaning up DX12RenderAdapter
+[Fri Feb 27 12:44:08 2026][INFO] BoxApp destroyed
